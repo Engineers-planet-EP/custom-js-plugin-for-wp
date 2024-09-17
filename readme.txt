@@ -1,5 +1,4 @@
-# CBSE Class 12 Computer Science Question Bank Plugin
-
+Custom JS code for Wordpress
 ## Overview
 This WordPress plugin provides an interactive Class 12 CBSE Computer Science Final Term Question Bank. It allows users to toggle answers for each question in an intuitive and visually appealing format. Perfect for students to practice and test their knowledge interactively.
 
